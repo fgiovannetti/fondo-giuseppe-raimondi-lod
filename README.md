@@ -1,1 +1,1 @@
-# fondo-giuseppe-raimondi
+# RDF data from Giuseppe Raimondi's fonds
